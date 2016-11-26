@@ -7,7 +7,7 @@ Arduino IDE 1.0.6 was used
 
 Documentation
 -------------
-On the [SIMAV8 Website](http://www.simav8.weebly.com)
+On the [SIMAV8 Website](http://www.simav8.com)
 
 Requires Arduino Libraries
 --------------------------
